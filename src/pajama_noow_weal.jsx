@@ -35,7 +35,7 @@ export default function WealThySite() {
               The Cycle of Restoration
             </h1>
             <p className="mt-4 max-w-2xl mx-auto text-base leading-relaxed opacity-90">
-              <strong>PAJAMA</strong> heals the captive mind, <strong>NOOW</strong> renews and organizes life around purpose, and <strong>WEAL.THY</strong> sustains harmony through generosity, gratitude, and growth — the realization that <em>true wealth is well-being shared.</em>
+              <strong>PAJAMA</strong> heals the captive mind, <span className="text-xs text-amber-300 ml-2">Prisoner Anguish Jail Anger Mindmend All</span>, <strong>NOOW</strong> renews and organizes life around purpose, and <strong>WEAL.THY</strong> sustains harmony through generosity, gratitude, and growth — the realization that <em>true wealth is well-being shared.</em>
             </p>
           </div>
         </Container>
